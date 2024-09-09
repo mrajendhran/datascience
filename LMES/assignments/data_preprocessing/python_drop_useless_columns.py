@@ -3,7 +3,7 @@ import pandas as pd
 # pd.set_option("display.max_rows", None)
 # pd.set_option("display.max_columns", None)
 
-""" Reading CSV file into a variable """
+""" Reading source file """
 csv_file_data = pd.read_csv("housing_drop_columns.csv")
 
 """ Creating a data frame """
