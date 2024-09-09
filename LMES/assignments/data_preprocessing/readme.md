@@ -3,11 +3,11 @@ Data preprocessing is a technique to clean and prepare the necessary dataset for
 We will cover the following preprocessing techniques here:
 
 ## Drop columns that aren’t useful.
-[a drop useless columns](python_drop_useless_columns.py)
+[Drop useless columns](python_drop_useless_columns.py)
 
 
 ## Handling missing values.
-[a handling missing values](python_handling_missing_values.py)
+[Handling missing values](python_handling_missing_values.py)
 
 ## Handling Duplicate values.
 
