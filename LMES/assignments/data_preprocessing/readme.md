@@ -6,13 +6,14 @@ We will cover the following preprocessing techniques here:
 [a drop useless columns](python_drop_useless_columns.py)
 
 
-Handling missing values.
+## Handling missing values.
+[a handling missing values](python_handling_missing_values.py)
 
-Handling Duplicate values.
+## Handling Duplicate values.
 
-Handling categorical features.
+## Handling categorical features.
 
-Convert the data frame to NumPy.
+## Convert the data frame to NumPy.
 
 Split the dataset into train and test data.
 

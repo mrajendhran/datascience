@@ -1,5 +1,8 @@
 import pandas as pd
 
+# pd.set_option("display.max_rows", None)
+# pd.set_option("display.max_columns", None)
+
 """ Reading CSV file into a variable """
 csv_file_data = pd.read_csv("housing_drop_columns.csv")
 
@@ -17,7 +20,7 @@ print(df.head())
 # df.drop(df.columns[9], axis=1, inplace=True)
 # print(df.head())
 
-""" Dropping columns by index 
+""" Dropping columns by columns range
 Here you are specifying all rows with the colon (:) as the first argument of .loc[]. 
 The second argument selects all columns between the "top_speed" and "passenger_capacity" columns. 
 Together, we can get rid of useless columns by mentioning the column range.
