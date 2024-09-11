@@ -7,3 +7,8 @@
 ### Multiply list of numbers passed in single arguments using *args. eg: multiply(1,2,3,4,5)
 ### Save user object with multiple arguments and receives as dictionary in method params. eg: saveUser(id=1, firstName="Rajendran", lastName="Marimuthu", skills="Java, SpringBoot")
 ### Variable scope (Global, Local scope) examples added.
+
+
+# Classes examples
+
+### Simple SmartPhone Class
