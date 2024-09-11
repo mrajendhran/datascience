@@ -1,9 +1,8 @@
 from pathlib import Path
 
-
 """ Reading file content as String """
 
-file_path = r"C:\Users\DELL\Downloads\python_read_raw_content.txt"
+file_path = r"C:\Users\HP\Downloads\python_read_raw_content.txt"
 
 # with open(file_path, 'r') as file:
 #     file_content = file.read()
